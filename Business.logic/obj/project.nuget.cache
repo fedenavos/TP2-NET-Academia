@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "otf+bSENhHGlFka73jGy95z1fafCbLGwgy7fOBwaO7zwwtOIMYWjFNU1+EvlhZLuZ8pmrP2xZ6HecWvZP5Y6vQ==",
+  "success": true,
+  "projectFilePath": "C:\\.Net\\TP2\\tp-net\\Business.logic\\Business.logic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
